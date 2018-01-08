@@ -6,6 +6,7 @@ To execute code, clone code to a directory and then run the following command in
 python ./
 ```
 
+## Description
 The higher level portion of the code is contained in `__main__.py`
 
 Currently only supports Knight movement; can be expanded to support the other pieces by adding in their movement patterns. For now, the Knight's movement pattern can be found in the class variable `self.knight` inside `chess_path.py`.
