@@ -16,7 +16,7 @@ The shortest routes are:
 [15, 21, 15]
 [15, 5, 15]
 [15, 30, 15]
-```python
+```
 
 Where the numbers in this list correspond to the numbers on the chess board grid:
 ```python
